@@ -1,0 +1,9 @@
+[submodule "definition"]
+	path = definition
+	url = git@github.com:sajidj/definition.git
+[submodule "index"]
+	path = index
+	url = git@github.com:sajidj/index.git
+[submodule "information"]
+	path = information
+	url = git@github.com:sajidj/information.git
